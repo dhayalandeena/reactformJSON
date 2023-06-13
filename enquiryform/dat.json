@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Sibi maharaj",
+      "department": "Information Technology",
+      "company": "Cognizant Solutions"
+    },
+    {
+      "id": 3,
+      "name": "Raja",
+      "department": "Information Technology",
+      "company": "TCS"
+    },
+    {
+      "id": "100",
+      "name": "Sivamanikandan",
+      "department": "ITES",
+      "company": "KI mobility"
+    },
+    {
+      "id": "90",
+      "name": "Jegan",
+      "department": "temporary department",
+      "company": "Temporary company"
+    },
+    {
+      "id": "33",
+      "name": "www",
+      "department": "343",
+      "company": "32"
+    },
+    {
+      "id": "1000",
+      "name": "Friend",
+      "department": "Automobile",
+      "company": "SSIET"
+    },
+    {
+      "id": "9000",
+      "name": "divyadeenadhayalan.D",
+      "department": "testing",
+      "company": "CTS"
+    },
+    {
+      "id": "700",
+      "name": "Sankar shanmugam",
+      "department": "Front end",
+      "company": "Besant tech"
+    },
+    {
+      "id": "777",
+      "name": "Sankar",
+      "department": "besant",
+      "company": "FRE"
+    },
+    {
+      "id": "1020030",
+      "name": "sibi",
+      "department": "information",
+      "company": "besant"
+    }
+  ]
+}
